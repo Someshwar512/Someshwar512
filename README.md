@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Someshwar Ramesh Solat
+# 👋 Hi, I'm Someshwar Solat
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Backend+Node.js+Developer;Software+Engineer;REST+API+%7C+Microservices+%7C+Databases;Cloud+%26+DevOps+Enthusiast;Exploring+AI-Powered+Applications" alt="Typing Animation" />
