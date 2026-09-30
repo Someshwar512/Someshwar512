@@ -1,15 +1,23 @@
 # 👋 Hi, I'm Someshwar Solat
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Backend+Node.js+Developer;Software+Engineer;REST+API+%7C+Microservices+%7C+Databases;Cloud+%26+DevOps+Enthusiast;Exploring+AI-Powered+Applications" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=850&lines=Backend+Node.js+Developer;Software+Engineer;REST+API+%7C+Databases+%7C+Cloud;Building+Scalable+Backend+Applications;Learning+System+Design+%26+Modern+Engineering" alt="Typing Animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Someshwar512&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Someshwar512?label=Followers&style=flat" alt="GitHub Followers" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Someshwar512">
-    <img src="https://img.shields.io/badge/GitHub-Someshwar512-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Someshwar512-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/someshwar-solat-a38933227/">
-    <img src="https://img.shields.io/badge/LinkedIn-Someshwar%20Solat-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Someshwar%20Solat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:someshwar.solat1801@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -17,36 +25,39 @@
 
 ## 🚀 About Me
 
-I'm a **Backend Node.js Developer / Software Engineer** focused on designing and developing reliable, scalable backend applications and RESTful APIs.
+I'm a **Backend Node.js Developer and Software Engineer** focused on building reliable, maintainable and scalable backend applications.
 
-I have around **3 years of Node.js backend development experience**, working with modern backend technologies, databases, authentication systems and deployment workflows.
+I have around **3 years of Node.js backend development experience**, with hands-on experience in REST APIs, authentication, databases, API testing and deployment workflows.
 
-### 💡 What I Work With
+### What I Bring
 
-- 🚀 Backend development using **Node.js & Express.js**
-- 🔌 RESTful API design and development
-- 🔐 Authentication & authorization using **JWT, bcrypt & RBAC**
-- 🗄️ Database development with **MySQL & MongoDB**
-- ⚡ API performance, validation and error handling
-- 🧪 API testing using **Postman, Jest & Supertest**
-- 🐳 Containerization using **Docker**
-- ☁️ Cloud and deployment fundamentals with **AWS**
-- 🔧 Version control using **Git & GitHub**
-- 🤖 Exploring **AI-powered backend applications and automation**
+- 🚀 Backend development with **Node.js & Express.js**
+- 🔌 RESTful API design and implementation
+- 🗄️ **MySQL & MongoDB** database development
+- 🔐 Authentication, authorization and **RBAC**
+- 🧪 API testing and backend quality practices
+- ☁️ AWS and deployment fundamentals
+- 🐳 Docker and Linux fundamentals
+- 🔧 Git/GitHub based development workflow
+- 🏗️ Interest in system design, scalability and distributed systems
 
 ---
 
-# 🛠️ Technical Skills
+# 🧰 Technology Stack
 
-### 👨‍💻 Programming Languages
+## 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,c" />
 </p>
 
-**JavaScript • TypeScript • SQL**
+**JavaScript • TypeScript • Java • C • C++ • SQL**
 
-### ⚙️ Backend Development
+> Java was part of my earlier development experience, while my primary professional focus is backend development with Node.js.
+
+---
+
+## ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -54,35 +65,45 @@ I have around **3 years of Node.js backend development experience**, working wit
 
 **Node.js • Express.js • REST APIs • MVC • API Architecture • Microservices Concepts**
 
-### 🗄️ Databases
+---
+
+## 🗄️ Databases & ORM
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,prisma" />
 </p>
 
-**MySQL • MongoDB • Prisma ORM • Database Design • Query Optimization**
+**MySQL • MongoDB • Prisma • Database Design • SQL Queries • Transactions • Query Optimization**
 
-### 🔐 Security & Authentication
+---
 
-**JWT • bcrypt • Role-Based Access Control (RBAC) • OTP Verification • Authorization • API Security**
+## 🔐 Security & Authentication
 
-### 🧪 Testing & Quality
+**JWT • bcrypt • RBAC • OTP Verification • Authorization • Password Security • API Security**
+
+---
+
+## 🧪 Testing & Quality
 
 <p>
   <img src="https://skillicons.dev/icons?i=jest" />
 </p>
 
-**Postman • Jest • Supertest • API Testing • Unit Testing • Integration Testing**
+**Postman • Jest • Supertest • Unit Testing • Integration Testing • API Testing • Validation**
 
-### ☁️ Cloud & DevOps
+---
+
+## ☁️ Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx" />
 </p>
 
-**AWS • Docker • Linux • Nginx • PM2 • CI/CD Fundamentals**
+**AWS • Docker • Linux • Nginx • PM2 • CI/CD Fundamentals • Deployment**
 
-### 🔧 Development Tools
+---
+
+## 🔧 Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
@@ -92,34 +113,41 @@ I have around **3 years of Node.js backend development experience**, working wit
 
 ---
 
-# 🤖 AI & Modern Development
+# 🤖 AI & Modern Backend Development
 
-I'm actively exploring how **AI can be integrated into backend applications** to improve automation, developer productivity and user experiences.
+I'm exploring how AI technologies can be integrated with backend systems to build practical, automation-focused applications.
 
-### AI Areas
+### Areas of Interest
 
-- 🤖 AI API integration
-- 🧠 LLM-powered application workflows
-- 💬 AI chatbot integration
-- ⚙️ AI-assisted automation
-- 🔌 API-based AI services
-- 📝 Prompt engineering fundamentals
-- 🚀 Building AI features with Node.js backends
+- LLM/API integration
+- AI-powered backend workflows
+- Chatbot development
+- AI-assisted automation
+- Prompt engineering fundamentals
+- AI + REST API architecture
+- Building intelligent features with Node.js
 
-### AI + Backend Architecture
+### 🔄 AI Backend Flow
 
 ```text
-Frontend
-   ↓
-Node.js / Express API
-   ↓
-Business Logic
-   ↓
-AI Service / API
-   ↓
-Database
-   ↓
-Response
+             ┌─────────────────┐
+             │    Frontend     │
+             └────────┬────────┘
+                      │
+                      ▼
+             ┌─────────────────┐
+             │ Node.js / API   │
+             └────────┬────────┘
+                      │
+             ┌────────▼────────┐
+             │ Business Logic  │
+             └───────┬─┬───────┘
+                     │ │
+             ┌───────┘ └────────┐
+             ▼                  ▼
+      ┌─────────────┐    ┌─────────────┐
+      │   Database  │    │  AI Service │
+      └─────────────┘    └─────────────┘
 ```
 
 ---
@@ -132,17 +160,17 @@ Response
 
 **Aug 2023 – July 2026**
 
-- Developed and maintained backend services using **Node.js and Express.js**.
-- Designed and implemented scalable **RESTful APIs** for enterprise applications.
-- Implemented secure authentication and authorization using **JWT and bcrypt**.
-- Developed **role-based access control** for Admin, User and Chef modules.
-- Worked with **MySQL and MongoDB** for database design, queries and data management.
+- Developed and maintained backend applications using **Node.js and Express.js**.
+- Designed and implemented **RESTful APIs** for enterprise applications.
+- Implemented authentication and authorization using **JWT and bcrypt**.
+- Developed role-based access control for **Admin, User and Chef** modules.
+- Worked with **MySQL and MongoDB** for database design and application data.
 - Implemented **OTP verification, email verification and password-reset workflows**.
-- Collaborated with frontend developers to define API contracts and resolve integration issues.
-- Implemented centralized error handling and request validation.
-- Worked with Git and GitHub for source-code management and collaborative development.
-- Investigated production issues and implemented backend fixes and improvements.
-- Worked with deployment and environment configuration for backend applications.
+- Collaborated with frontend developers on API contracts and integrations.
+- Implemented request validation and centralized error handling.
+- Investigated backend issues and implemented production fixes.
+- Used **Git and GitHub** for source-code management.
+- Worked with environment configuration and backend deployment workflows.
 
 ---
 
@@ -150,39 +178,34 @@ Response
 
 ## 🍽️ Restaurant Management System
 
-A full-featured restaurant management platform with separate **Admin, User and Chef** workflows.
+A restaurant management platform designed around **Admin, User and Chef** workflows.
 
-### 🔧 Technology
+### 🛠️ Technology
 
-**Node.js • Express.js • MySQL • MongoDB • JWT • bcrypt • REST APIs**
+`Node.js` `Express.js` `MySQL` `MongoDB` `JWT` `bcrypt` `REST API`
 
-### ✨ Key Features
+### ✨ Features
 
-- 👤 User authentication
-- 👨‍🍳 Chef management
-- 👨‍💼 Admin management
-- 🔐 JWT authentication & authorization
-- 🛡️ Role-Based Access Control
-- 🔢 OTP verification
-- 📧 Email verification
-- 🔑 Password reset
-- 🍔 Menu management
-- 🛒 Cart management
-- 📦 Order management
-- 🎁 Offers management
-- ⚡ RESTful API architecture
+| Module | Features |
+|---|---|
+| 👤 User | Login, OTP, Profile, Cart, Orders |
+| 👨‍🍳 Chef | Dish Management, Orders |
+| 👨‍💼 Admin | User/Chef Management, Offers |
+| 🔐 Security | JWT, bcrypt, RBAC |
+| 📧 Communication | Email & OTP Verification |
+| 🛒 Commerce | Menu, Cart, Orders, Offers |
 
 ---
 
 ## 💳 Digital Wallet Application
 
-A backend and frontend digital wallet application focused on secure wallet and transaction management.
+A full-stack digital wallet application focused on wallet and transaction management.
 
-### 🔧 Technology
+### 🛠️ Technology
 
-**TypeScript • Node.js • Express.js • Prisma • MySQL • React**
+`TypeScript` `Node.js` `Express.js` `Prisma` `MySQL` `React`
 
-### ✨ Key Features
+### ✨ Features
 
 - 👤 User authentication
 - 💰 Wallet management
@@ -191,13 +214,31 @@ A backend and frontend digital wallet application focused on secure wallet and t
 - 🗄️ Prisma ORM
 - 🧾 Database transactions
 - ⚡ REST API architecture
-- 🐳 Docker-ready development environment
+- 🐳 Docker development environment
+
+---
+
+# 🏗️ Engineering Interests
+
+```text
+Backend Engineering
+       │
+       ├── REST APIs
+       ├── Authentication
+       ├── Databases
+       ├── Microservices
+       ├── System Design
+       ├── Cloud & DevOps
+       └── AI Integrations
+```
+
+I'm particularly interested in understanding how backend systems can be designed for:
+
+**Scalability • Reliability • Security • Performance • Maintainability**
 
 ---
 
 # 📚 Currently Learning
-
-I'm continuously improving my software engineering skills in:
 
 - 🚀 Advanced Node.js
 - 🏗️ System Design
@@ -207,33 +248,29 @@ I'm continuously improving my software engineering skills in:
 - 🔧 CI/CD
 - 🧩 Microservices
 - 🧪 Test Automation
-- 🤖 AI Application Development
-- ⚡ Backend Performance & Scalability
+- ⚡ Backend Performance
 - 🔐 Application Security
 
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Someshwar512&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Someshwar512&show_icons=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshwar512&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Someshwar512&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Someshwar512&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Someshwar512&hide_border=true" />
 </p>
 
 ---
 
 # 🎯 Career Focus
 
-I'm interested in opportunities involving:
+**Backend Engineering • Node.js • REST APIs • Databases • System Design • Cloud • DevOps • AI Integrations**
 
-**Backend Engineering • Node.js • REST APIs • Microservices • Database Engineering • Cloud • DevOps • AI-powered Applications**
+I'm open to opportunities where I can contribute to backend engineering while continuing to grow in **system design, cloud technologies and modern application development**.
 
 ---
 
@@ -259,8 +296,8 @@ I'm interested in opportunities involving:
 
 <p align="center">
 
-### 💻 Build • Learn • Improve • Repeat 🚀
+### 💻 Build • Learn • Solve • Improve 🚀
 
-⭐ Thanks for visiting my profile!
+**Thanks for visiting my profile!**
 
 </p>
