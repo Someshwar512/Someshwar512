@@ -13,13 +13,19 @@
   <a href="https://github.com/Someshwar512">
     <img src="https://img.shields.io/badge/GitHub-Someshwar512-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
   <a href="https://www.linkedin.com/in/someshwar-solat-a38933227/">
     <img src="https://img.shields.io/badge/LinkedIn-Someshwar%20Solat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://someshwar-solat-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-00BFFF?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
   <a href="mailto:someshwar.solat1801@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</p>>
 
 ---
 
